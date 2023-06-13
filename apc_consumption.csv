@@ -1,4 +1,4 @@
-Month, kWh, school_days, population, decision
+Month, kWh, school_days, population, p_decision
 May,151800,0,2487,B
 June,193200,23,2487,C
 July,207600,23,2487,C
